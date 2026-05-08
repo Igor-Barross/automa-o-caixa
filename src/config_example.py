@@ -1,41 +1,6 @@
 from datetime import datetime
 from pathlib import Path
 
-"""
-Arquivo de exemplo de configuração do projeto.
-
-OBJETIVO
---------
-Este arquivo existe para servir como modelo público do seu `config.py`.
-A ideia é que quem clonar o projeto copie este arquivo, renomeie para
-`config.py` e então preencha os valores necessários conforme a estrutura
-local da máquina e os dados do próprio projeto.
-
-COMO USAR
----------
-1. Copie este arquivo.
-2. Renomeie a cópia para `config.py`.
-3. Revise cada constante marcada como configurável.
-4. Ajuste nomes de arquivos, caminhos, prefixos e flags conforme sua realidade.
-
-EXEMPLO
--------
-No terminal:
-
-    cp config_example.py config.py
-
-Depois disso, altere o `config.py` e mantenha este arquivo como referência
-para o repositório.
-
-OBSERVAÇÕES IMPORTANTES
------------------------
-- Evite colocar dados sensíveis aqui.
-- Se a estrutura de pastas do projeto mudar, atualize este arquivo também.
-- Sempre que adicionar uma nova configuração no `config.py` real,
-  replique aqui com uma explicação simples.
-"""
-
-
 # ------ CAMINHOS PASTAS PRINCIPAIS ------
 # Esses caminhos assumem que este arquivo está dentro de uma pasta do projeto
 # e que a raiz dele fica um nível acima, conforme a estrutura atual.
