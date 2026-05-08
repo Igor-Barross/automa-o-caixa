@@ -1,4 +1,4 @@
-# AUTOMAÇÃO_CAIXA
+# Automação de Caixa – Python + Excel
 
 Automação em Python para leitura, padronização e escrita de dados de extrato em um modelo de caixa, com foco em transformar arquivos brutos em uma saída organizada e pronta para conferência.
 
