@@ -16,6 +16,12 @@ AUTOMACAO_CAIXA/
 │   ├── processed/
 │   └── raw/
 │       └── extrato.csv
+├── docs/
+│   └── images/
+│       ├── tabela_modelo.PNG
+│       ├── foto_extrato_raw.PNG
+│       ├── foto_extrato_processed.PNG
+│       └── caixa_preenchido.PNG
 ├── notebooks/
 │   └── eda_inicial.ipynb
 ├── output/
