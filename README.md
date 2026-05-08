@@ -89,26 +89,26 @@ De forma geral, o projeto segue este caminho:
 ### 1. Modelo antes do preenchimento
 
 
-![Modelo antes do preenchimento](./tabela_modelo.PNG)
+![Modelo antes do preenchimento](docs/images/tabela_modelo.PNG)
 
 
 ### 2. Extrato bruto recebido
 
 
-![Extrato bruto](./foto_extrato_raw.PNG)
+![Extrato bruto](docs/images/foto_extrato_raw.PNG)
 
 
 ### 3. Tabela processada
 
 
-![Tabela processada](./foto_extrato_processed.PNG)
+![Tabela processada](docs/images/foto_extrato_processed.PNG)
 
 
 ### 4. Modelo depois do preenchimento
 
 
 
-![Modelo depois do preenchimento](./caixa_preenchido.PNG)
+![Modelo depois do preenchimento](docs/images/caixa_preenchido.PNG)
 
 
 ## Exemplo de uso
